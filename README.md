@@ -11,7 +11,7 @@
 ![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/aa08f7a4-1673-46a6-bda4-1d331bb81063)
 
 ตัวอย่างหน้า detail.php สามารถดูได้อย่างเดียว
-![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/a706d443-2999-43de-b075-fbad6ef6660e)
+![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/9ef09000-3fb6-476d-b4c4-5980fe0ca5cb)
 
 ตัวอย่างหน้า edit.php สามารถแก้ไขได้
 ![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/93f24ac1-4563-4dd5-8c79-b7a8df48aaa0)
