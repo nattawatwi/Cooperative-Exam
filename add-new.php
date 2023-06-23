@@ -23,7 +23,7 @@ if (isset($_POST["submit"])) {
    $result = mysqli_query($conn, $sql);
 
    if ($result) {
-      header("Location: index.php?msg=New record created successfully");
+      header("Location: index.php?msg=บันทึกเสร็จสิ้น");
    } else {
       echo "Failed: " . mysqli_error($conn);
    }
