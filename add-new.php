@@ -65,15 +65,15 @@ if (isset($_POST["submit"])) {
             
          <div class="mb-3">
                <label class="form-label">การวิเคราะห์พื้นที่เป้าหมาย:</label>
-               <input type="text" class="form-control" name="area" placeholder="พื้นที่มีจุดเด่นและความเข้มแข็งอะไรบ้าง">
+               <input type="text" class="form-control" name="area" placeholder="SWOT Analysis">
             </div>
             <div class="mb-3">
                <label class="form-label">จุดแข็งของพื้นที่:</label>
-               <input type="text" class="form-control" name="strength" placeholder="พื้นที่มีปัญหาและความไม่เข้มแข็งอะไรบ้าง">
+               <input type="text" class="form-control" name="strength" placeholder="พื้นที่มีจุดเด่นและความเข้มแข็งอะไรบ้าง">
             </div>
             <div class="mb-3">
                <label class="form-label">จุดอ่อนของพื้นที่:</label>
-               <input type="text" class="form-control" name="weakness" placeholder="ในพื้นที่คาดว่าจะมีโอกาสที่จะพัฒนาอะไรบ้างเพื่อให้พื้นที่หรือตัวท่านเองมีคุณภาพชีวิตที่ดีขึ้น">
+               <input type="text" class="form-control" name="weakness" placeholder="พื้นที่มีปัญหาและความไม่เข้มแข็งอะไรบ้าง">
             </div>
             <div class="mb-3">
                <label class="form-label">โอกาสและความท้าทายในพื้นที่:</label>
