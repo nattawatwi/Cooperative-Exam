@@ -70,7 +70,7 @@ if (isset($_POST["submit"])) {
          <form action="" method="post" style="width:auto; min-width:auto;">
             
          <div class="mb-3">
-               <label class="form-label">การวิเคราะห์พื้นที่เป้าหมาย:</label>
+               <label class="form-label">การวิเคราะห์พื้นที่เป้าหมาย: </label>
                <input type="text" class="form-control" name="area" value="<?php echo $row['area'] ?>"readonly>
             </div>
             <div class="mb-3">
