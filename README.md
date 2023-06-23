@@ -1,7 +1,8 @@
 # Cooperative-Exam
-สอบสหกิจ
+สอบสหกิจ ข้อ 8
+นายณัฐวัตร วิลัย 633410013-6
 
-พัฒนาด้วย php และเก็บข้อมูลด้วย Mysql
+#พัฒนาด้วย php และเก็บข้อมูลด้วย Mysql
 
 ตัวอย่างหน้า index.php สามารถแสดงข้อมูลได้ครบถ้วน
 ![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/44839a8b-f6e0-4acb-aef2-56cc9ffc751e)
