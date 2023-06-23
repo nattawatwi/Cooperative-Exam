@@ -55,7 +55,7 @@ include "db_conn.php";
     </div>';
     }
     ?>
-    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="พิมพ์ชื่อเพื่อค้นหา" title="Type in a name">
     <a href="add-new.php" class="btn btn-dark mb-3 float-end">เพิ่ม</a>
 
     <table id="myTable" class="table table-hover text-center">
