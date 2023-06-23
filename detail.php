@@ -56,8 +56,8 @@ if (isset($_POST["submit"])) {
 
   <div class="container">
     <div class="text-center mb-4">
-      <h3>Edit User Information</h3>
-      <p class="text-muted">Click update after changing any information</p>
+      <h3>รายละเอียดรายงานการวิเคราะห์พื้นที่</h3>
+      <p class="text-muted">รายงานการวิเคราะห์พื้นที่</p>
     </div>
 
     <?php
