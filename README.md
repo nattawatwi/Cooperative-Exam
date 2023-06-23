@@ -7,13 +7,14 @@
 ตัวอย่างหน้า index.php 
   สามารถแสดงข้อมูลได้ครบถ้วน 
   ลบข้อมูลได้
-![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/41596f47-ffc1-4b48-a893-76652a709641)
+![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/5755d8fc-c74a-4f9d-9ccc-7de60ea86269)
 
   Search ชื่อได้
-![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/524e2989-f060-462d-8847-4c077a15eab6)
+![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/f70e0962-12d8-4d18-bd8c-9da994760eba)
 
 ตัวอย่างหน้า add-new.php สามารถเพิ่มข้อมูลได้
-![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/aa08f7a4-1673-46a6-bda4-1d331bb81063)
+![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/01206c96-a63e-4b8e-8dd3-556979c3b1de)
+
 
 ตัวอย่างหน้า detail.php สามารถดูได้อย่างเดียว
 ![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/9ef09000-3fb6-476d-b4c4-5980fe0ca5cb)
