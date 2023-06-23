@@ -7,8 +7,10 @@
 ตัวอย่างหน้า index.php 
   สามารถแสดงข้อมูลได้ครบถ้วน 
   ลบข้อมูลได้
-  Search ชื่อได้
 ![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/41596f47-ffc1-4b48-a893-76652a709641)
+
+  Search ชื่อได้
+![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/524e2989-f060-462d-8847-4c077a15eab6)
 
 ตัวอย่างหน้า add-new.php สามารถเพิ่มข้อมูลได้
 ![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/aa08f7a4-1673-46a6-bda4-1d331bb81063)
