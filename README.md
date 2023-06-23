@@ -4,7 +4,7 @@
 
 #พัฒนาด้วย php และเก็บข้อมูลด้วย Mysql
 
-ตัวอย่างหน้า index.php สามารถแสดงข้อมูลได้ครบถ้วน
+ตัวอย่างหน้า index.php สามารถแสดงข้อมูลได้ครบถ้วน ลบข้อมูลได้
 ![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/44839a8b-f6e0-4acb-aef2-56cc9ffc751e)
 
 ตัวอย่างหน้า add-new.php สามารถเพิ่มข้อมูลได้
