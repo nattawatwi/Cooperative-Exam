@@ -15,3 +15,6 @@
 
 ตัวอย่างหน้า edit.php สามารถแก้ไขได้
 ![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/93f24ac1-4563-4dd5-8c79-b7a8df48aaa0)
+
+phpMyAdmin
+![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/720f358d-ebc8-44e2-b042-949f93bdf359)
