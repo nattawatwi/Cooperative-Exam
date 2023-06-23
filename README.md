@@ -4,8 +4,11 @@
 
 #พัฒนาด้วย php และเก็บข้อมูลด้วย Mysql
 
-ตัวอย่างหน้า index.php สามารถแสดงข้อมูลได้ครบถ้วน ลบข้อมูลได้
-![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/44839a8b-f6e0-4acb-aef2-56cc9ffc751e)
+ตัวอย่างหน้า index.php 
+  สามารถแสดงข้อมูลได้ครบถ้วน 
+  ลบข้อมูลได้
+  Search ชื่อได้
+![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/41596f47-ffc1-4b48-a893-76652a709641)
 
 ตัวอย่างหน้า add-new.php สามารถเพิ่มข้อมูลได้
 ![image](https://github.com/nattawatwi/Cooperative-Exam/assets/76519685/aa08f7a4-1673-46a6-bda4-1d331bb81063)
